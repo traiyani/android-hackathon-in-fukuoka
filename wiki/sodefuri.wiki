@@ -1,4 +1,4 @@
-#summary sodefuri.
+#summary androidアプリ "sodefuri" の紹介ページです。
 #labels android,Featured
 
 = sodefuri =
